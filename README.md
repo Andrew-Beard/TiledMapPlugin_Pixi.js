@@ -20,7 +20,7 @@ or
 yarn add pixi-tiledmap
 ```
 
-or include `pixi-tiledmap.min.js` after pixi.js in your html file (See [`example/browser`](https://github.com/riebel/pixi-tiledmap/tree/master/example/browser) for an example).
+or include `pixi-tiledmap.min.js` after pixi.js in your html file.
 
 ```html
 <!DOCTYPE html>
@@ -118,7 +118,7 @@ Open [http://localhost:3000/](http://localhost:3000/) in your browser.
 
 ## Documentation
 
-Documentation available in `docs/`. You can read it online [here](http://htmlpreview.github.io/?https://github.com/riebel/pixi-tiledmap/blob/master/docs/index.html)
+Documentation available in `docs/`. 
 
 Example TiledMap object
 
